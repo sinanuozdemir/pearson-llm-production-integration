@@ -1,4 +1,4 @@
-# Using Open- and Closed-Source LLMs in Real World Applications
+# LLMs from Prototypes to Production
 
 ![O'Reilly](images/oreilly.png)
 
