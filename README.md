@@ -17,11 +17,11 @@ The book Quick Start Guide to LLMs by Sinan Ozdemir is recommended as companion 
 
 1. [LLMs, GPT, and Prompt Engineering for Developers](https://learning.oreilly.com/live-events/llms-gpt-and-prompt-engineering-for-developers/0636920094338/0636920094337/#liveEventSchedule)
 
-2. **[Using Open- and Closed-Source LLMs in Real World Applications](https://learning.oreilly.com/live-events/using-open-and-closed-source-llms-in-real-world-applications/0636920094342/)**
+2. [Using Open- and Closed-Source LLMs in Real World Applications](https://learning.oreilly.com/live-events/using-open-and-closed-source-llms-in-real-world-applications/0636920094342/)
 
-3. [LLMs from Prototypes to Production](https://learning.oreilly.com/live-events/llms-from-prototypes-to-production/0636920095639/)
+3. **[LLMs from Prototypes to Production](https://learning.oreilly.com/live-events/llms-from-prototypes-to-production/0636920095639/)**
 
-The book [Quick Start Guide to LLMs](https://learning.oreilly.com/library/view/quick-start-guide/9780138199425) by Sinan Ozdemir is recommended as companion material for post-class reference.
+The book **[Quick Start Guide to LLMs](https://learning.oreilly.com/library/view/quick-start-guide/9780138199425)** by Sinan Ozdemir is recommended as companion material for post-class reference.
 
 ### What You'll Learn
 
@@ -65,7 +65,7 @@ And you’ll be able to:
 - `distillation.ipynb`: [Notebook covering distillation techniques](notebooks/distillation.ipynb)
 - `rl_flan_t5_summaries.ipynb`: [Working with FLAN-T5 models using Reinforcement Learning](notebooks/rl_flan_t5_summaries.ipynb)
 - `openai_fine_tuned_classification.ipynb`: [Fine-tuning OpenAI models for classification](notebooks/openai_fine_tuned_classification.ipynb)
-- `metrics.ipynb`: [Evaluation Metrics](notebooks/metrics.ipynbmetrics.ipynb)
+- `metrics.ipynb`: [Evaluation Metrics](notebooks/metrics.ipynb)
 
 
 - Checkout out the [Streamlit](streamlit/) directory for Streamlit apps!
