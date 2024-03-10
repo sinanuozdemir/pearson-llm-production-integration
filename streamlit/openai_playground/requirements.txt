@@ -1,3 +1,0 @@
-streamlit
-openai
-altair<5

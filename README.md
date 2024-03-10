@@ -62,10 +62,12 @@ And you’ll be able to:
 
 ## Notebooks
 
-- `distillation.ipynb`: [Notebook covering distillation techniques](notebooks/distillation.ipynb)
-- `rl_flan_t5_summaries.ipynb`: [Working with FLAN-T5 models using Reinforcement Learning](notebooks/rl_flan_t5_summaries.ipynb)
+- `distillation.ipynb`: [Notebook covering distillation techniques](https://colab.research.google.com/drive/1GO8w1gC2TRII9-aaRNaFN6mkCglm2pJa?usp=sharing)
+- `rl_flan_t5_summaries.ipynb`: [Working with FLAN-T5 models using Reinforcement Learning](https://colab.research.google.com/drive/1wG8lv6drn872HNZHrT7V9kl6JIF1SXpr?usp=sharing)
 - `openai_fine_tuned_classification.ipynb`: [Fine-tuning OpenAI models for classification](notebooks/openai_fine_tuned_classification.ipynb)
 - `metrics.ipynb`: [Evaluation Metrics](notebooks/metrics.ipynb)
+- `rlaif.ipynb`: [Investigating Principles of RLAIF and Constituional AI](notebooks/rlaif.ipynb)
+
 
 
 - Checkout out the [Streamlit](streamlit/) directory for Streamlit apps!
