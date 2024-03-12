@@ -65,6 +65,8 @@ And you’ll be able to:
 - `distillation.ipynb`: [Notebook covering distillation techniques](https://colab.research.google.com/drive/1GO8w1gC2TRII9-aaRNaFN6mkCglm2pJa?usp=sharing)
 - `rl_flan_t5_summaries.ipynb`: [Working with FLAN-T5 models using Reinforcement Learning](https://colab.research.google.com/drive/1wG8lv6drn872HNZHrT7V9kl6JIF1SXpr?usp=sharing)
 - `openai_fine_tuned_classification.ipynb`: [Fine-tuning OpenAI models for classification](notebooks/openai_fine_tuned_classification.ipynb)
+- `BERT vs GPT for CLF.ipynb`: [Comparing Fine-tuned OpenAI to BERT](notebooks/BERT vs GPT for CLF.ipynb)
+- `Fine-tuning GPT2.ipynb`: [Seeing how small datasets can transform LLMs](notebooks/latex_gpt2.ipynb)
 - `metrics.ipynb`: [Evaluation Metrics](notebooks/metrics.ipynb)
 - `rlaif.ipynb`: [Investigating Principles of RLAIF and Constituional AI](notebooks/rlaif.ipynb)
 
